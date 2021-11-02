@@ -1,0 +1,9 @@
+
+*.tmp
+*.dll
+*.cache
+*.exe
+*.pdb
+TSharpFinalExercise/obj/*.*
+TSharpFinalExercise/obj/Debug/*.*
+TSharpFinalExercise/bin
